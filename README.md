@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SAI-CHAKRA/LeetCode/tree/master/0169-majority-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SAI-CHAKRA/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -19,4 +20,20 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/SAI-CHAKRA/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SAI-CHAKRA/LeetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SAI-CHAKRA/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SAI-CHAKRA/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SAI-CHAKRA/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
